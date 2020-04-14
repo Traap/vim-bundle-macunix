@@ -2,6 +2,7 @@
 if exists('g:loaded_bundle_macunix')
   finish
 endif
+let g:loaded_bundle_macunix=1
 " -------------------------------------------------------------------------- }}}
 " {{{ vitality | https://github.com/sjl/vitality.vim
 if has('macunix')
